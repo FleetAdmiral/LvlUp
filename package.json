@@ -1,0 +1,19 @@
+{
+  "name": "seller-hub",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "bcrypt": "^1.0.3",
+    "meteor-node-stubs": "~0.2.4",
+    "meteor-user-roles": "^1.1.1",
+    "moment": "^2.18.1",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-addons-pure-render-mixin": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "react-mounter": "^1.2.0"
+  }
+}
